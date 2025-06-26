@@ -45,6 +45,12 @@ Develop a robust classification model to assist financial institutions in detect
 
 ## 📁 Files
 - `credit_card.ipynb`: Full code and analysis
+- `report.pdf`: Project report
+- `train_dataset_final1.csv`:Training dataset
+- `validate_dataset_final.csv`:validation dataset
+- `submission_22116053.csv`: Predicted result for validation data
 - `report_open_project_22116053.pdf`: Project report
+
+
 
 
