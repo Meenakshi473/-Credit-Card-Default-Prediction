@@ -1,6 +1,6 @@
 # 🧾 Credit Card Default Prediction
 
-This project predicts whether a credit card holder is likely to default in the upcoming month. It was developed as part of the **Finance Club Open Project Summer 2025** by **Meenakshi (22116053)**.
+This project predicts whether a credit card holder is likely to default in the upcoming month. It was developed as part of the **Finance Club Open Project Summer 2025**.
 
 ## 🎯 Objective
 
